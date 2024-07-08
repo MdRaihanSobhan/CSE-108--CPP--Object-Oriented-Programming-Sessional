@@ -1,0 +1,34 @@
+***** Cylinder 1 *****
+Base Center: (3, 2.5)
+Base Radius: 4
+Base Circumference: 25.1328
+Base Area: 50.2656
+Cylinder height: 2.5
+Cylinder surface area: 62.832
+Cylinder volume: 125.664
+
+***** Cylinder 2 *****
+Base Center: (-2.5, 7)
+Base Radius: 4
+Base Circumference: 25.1328
+Base Area: 50.2656
+Cylinder height: 3.9
+Cylinder surface area: 98.0179
+Cylinder volume: 196.036
+
+Enter x Coordinates of the center: 1
+
+Enter y Coordinate of the center: -1
+
+Enter base radius: 3
+
+Enter cylinder height: 4.2
+
+***** Cylinder 3 *****
+Base Center: (1, -1)
+Base Radius: 3
+Base Circumference: 18.8496
+Base Area: 28.2744
+Cylinder height: 4.2
+Cylinder surface area: 79.1683
+Cylinder volume: 118.752

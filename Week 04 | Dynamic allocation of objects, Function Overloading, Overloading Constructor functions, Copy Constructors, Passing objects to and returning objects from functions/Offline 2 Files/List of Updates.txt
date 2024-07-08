@@ -1,0 +1,10 @@
+[March 26, 2:55 PM] 
+- In the print function of the class 'Book', 'Edition' has been replaced with 'Price'.
+- In all the sample output given in the file 'BookShop.cpp', 'Edition' has been replaced with 'Price'.
+
+[March 26, 12:35 PM]
+- In the destructor of the class 'Book', the line 'delete[] title' has been commented.
+- The output for 'bs3.print()' (line 132) in the 'main' function of the file 'BookShop.cpp' has been corrected.
+
+[March 26, 12:08 PM]
+- In the class 'Book', the data type of 'title' has been changed from 'char*' to 'char[]'.
