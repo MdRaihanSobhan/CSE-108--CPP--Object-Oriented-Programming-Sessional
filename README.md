@@ -45,3 +45,4 @@ Have a look at the [`course outline`](/Course%20Outline.pdf)
   - [Operator Overloading](/Week%2005%20|%20Operator%20Overloading/)
 - Week-6,7 | Practice Session 2
   - [Namespace, Inheritance and Static class members](/Week%2006%2007%20|%20Namespace,%20Inheritance%20and%20Static%20class%20members/)
+- Week-8-to-14 | [Second Part of the course using Java](https://github.com/MdRaihanSobhan/CSE-108-Java---Object-Oriented-Programming-Sessional)
