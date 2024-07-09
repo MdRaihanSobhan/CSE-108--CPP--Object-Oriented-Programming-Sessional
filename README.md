@@ -1,7 +1,7 @@
 
 # CSE108 | c++ | Object Oriented Programming Sessional
 
-- The course, CSE 108 - OOP is divided into 2 parts. In this course, OOP is taught in two different programming languages. The first part is using c++, and the second part is using Java. This repository contains all the resources, assignments, and practice sessions of the first part of the course.
+- The course, CSE 108 - OOP is divided into 2 parts. In this course, OOP is taught in two different programming languages. The first part is using c++, and the second part is using Java. This repository contains all the resources, assignments, and practice sessions of the first part of the course. You can find the resources of the second part of the course in the repository [CSE108-Java-OOP](https://github.com/MdRaihanSobhan/CSE-108-Java---Object-Oriented-Programming-Sessional)
 
 Have a look at the [`course outline`](/Course%20Outline.pdf)
 
