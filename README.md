@@ -47,3 +47,9 @@ Have a look at the [`course outline`](/Course%20Outline.pdf)
 - Week-6,7 | Practice Session 2
   - [Namespace, Inheritance and Static class members](/Week%2006%2007%20|%20Namespace,%20Inheritance%20and%20Static%20class%20members/)
 - Week-8-to-14 | [The Second Part of the course | OOP using Java](https://github.com/MdRaihanSobhan/CSE-108-Java---Object-Oriented-Programming-Sessional)
+
+
+## Disclaimer
+
+This repository is an archive of the author's solutions to course assignments. These solutions are provided as-is and are not guaranteed to be error-free or comprehensive. The author accepts no responsibility for any issues or damage resulting from the use of these solutions. They are intended for reference only, and copying them for academic purposes is strongly discouraged. The author is not liable for any consequences arising from academic dishonesty.
+
